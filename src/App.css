@@ -1,3 +1,4 @@
+/*
 .App {
   text-align: center;
 }
@@ -36,3 +37,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  background-color: #61dafb;
+  padding: 20px;
+  border-radius: 10px;
+
+  transition: all .3s;
+  
+}
+
+.container:hover {
+  background-color: #1d6c82;
+}
+
+.container > a {
+  text-decoration: none;
+}
+*/

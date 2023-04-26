@@ -1,0 +1,10 @@
+.Header {
+    height: 100px;
+    background-color: #023059;
+    text-align: center;
+    line-height: 100px;
+}
+
+.Header_h1 {
+    color:#ECF0F1;
+}
